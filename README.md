@@ -1,10 +1,10 @@
 # Ember Line — a three.js tactical FPS
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/threejs-fps-01)
-[![make.fun bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/threejs-fps-01)
-[![built with make.fun](https://make.fun/badge-built.svg)](https://make.fun/bounty/threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/kringan/makefun-threejs-fps-01/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/kringan/makefun-threejs-fps-01/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
-Entry for the [make.fun threejs-fps-01 bounty](https://make.fun/bounty/threejs-fps-01):
+Entry for the [make.fun threejs-fps-02 bounty](https://make.fun/bounty/threejs-fps-02):
 make the best three.js tactical FPS. A round-based, Counter-Strike-style
 shooter with an original map, bots on both teams, and gunfire where accuracy
 counts more than speed.
